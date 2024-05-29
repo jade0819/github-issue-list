@@ -1,2 +1,1 @@
-코드 컨벤션을 위한 Template
-CRA, Prettier, ESLint, GitHub Hook, Husky
+# GitHub 특정 Repository의 issue 목록을 가져오기
